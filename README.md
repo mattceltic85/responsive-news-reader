@@ -4,7 +4,7 @@ Let's create a responsive news reader website. To get the latest news the app wi
 
 ## Objectives
 
-- [ ] Create a responsive layout that works well and looks good at mobile, tablet and desktop screen sizes. Please create the mobile version first, then tablet and then desktop.
+- [ ] Create a responsive layout that works well and looks good at mobile, tablet asnd desktop screen sizes. Please create the mobile version first, then tablet and then desktop.
 
 - [ ] Fetch news articles from News API and display them including title, image, description, publication, date and link to article.
 
